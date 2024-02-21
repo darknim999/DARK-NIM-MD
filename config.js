@@ -3,21 +3,21 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER || "923184070915"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
+global.owner = process.env.OWNER_NUMBER || "94784280074"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'xheikhsalman4422@gmail.com'
+global.email = 'darknim@gmail.com'
 global.github = 'https://github.com/darknim999/DARK-NIM-MD'
 global.location = 'Lahore Pak'
 global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
-global.sudo = process.env.SUDO || '923184070915' 
-global.devs = '923184070915';
+global.sudo = process.env.SUDO || '94784280074' 
+global.devs = '94784280074';
 global.website = 'https://github.com/darknim999/DARK-NIM-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/a85692621a63b9e6ea9b9.jpg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
-  author:  process.env.PACK_AUTHER ||  '',
-  packname:  process.env.PACK_NAME || '',
+  author:  process.env.PACK_AUTHER ||  'DARK-NIM-MD',
+  packname:  process.env.PACK_NAME || 'DARK-NIM-MD',
    
   botname:   process.env.BOT_NAME === undefined ? "DARK-NIM-MD" : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'nimsara' : process.env.OWNER_NAME,  
