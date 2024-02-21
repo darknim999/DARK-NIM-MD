@@ -16,8 +16,8 @@ global.website = 'https://github.com/darknim999/DARK-NIM-MD' //wa.me/+9100000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/a85692621a63b9e6ea9b9.jpg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
-  author:  process.env.PACK_AUTHER ||  'DARK-NIM-MD',
-  packname:  process.env.PACK_NAME || 'DARK-NIM-MD',
+  author:  process.env.PACK_AUTHER ||  '',
+  packname:  process.env.PACK_NAME || '',
    
   botname:   process.env.BOT_NAME === undefined ? "DARK-NIM-MD" : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'nimsara' : process.env.OWNER_NAME,  
