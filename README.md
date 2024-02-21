@@ -15,7 +15,7 @@
 
 1. Fork the repo
     <br>
-<a href="https://github.com/darknim999/DARK-NIM-MD/fork"><img title="DARK-NIM" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/darknim999/DARK-NIM-MD/fork"><img title="DARK-NIM" src="https://img.shields.io/badge/FORK DARKNIM-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan the QR and upload the `Session` to ***DARK-NIM-MD*** 
     <br>
